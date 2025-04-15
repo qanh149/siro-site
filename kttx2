@@ -1,0 +1,50 @@
+<html>
+  <head> 
+  <meta charset="utf-8">
+  <title> Bài thực hành thiết kế web </title>
+  <style> 
+  body {font-family:Arial,sans-serif;}
+  header {background-color:#e0f0d8;text-align:center;padding:10px;}
+  h1 {color:yellow;font-size:18pt; font-weight:bold;margin:0;}
+  nav {background-color:#222; overflow:hidden;}
+   nav  { float: left;color: white; padding: 10px 16px;text-decoration: none;font-weight: bold;}
+    main { flex: 3; padding: 15px; }
+    .headline {flex: 1;padding: 15px;background-color: #f0f0f0;}
+     footer { background-color: #e0f0d8;text-align: center;padding: 10px;}
+    img { max-width: 100%; height: 50%;}
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="Logo Trường THPT Ngô Quyền" height="60"><br>
+    <h1>BÀI THỰC HÀNH THIẾT KẾ WEB</h1>
+  </header>
+
+  <nav>
+    <a href="#home">Trang chủ</a>
+    <a href="https://thisinh.thithptquocgia.edu.vn/" target="main">Thông tin Tốt nghiệp THPT</a>
+    <a href="https://thptngoquyen.hcm.edu.vn/" target="main">THPT Ngô Quyền</a>
+  </nav>
+
+  <div class="container">
+    <div class="main" id="home">
+      <h2>Giới thiệu bản thân</h2>
+      <p>Xin chào! Mình tên là Nguyễn Quynh Anh , học sinh lớp 12A trường THPT Ngô Quyền.</p>
+      <img src="banthan.jpg" alt="Ảnh bản thân">
+    </div>
+    <div class="headline">
+      <h3><a href="https://thptngoquyen.hcm.edu.vn/ban-tin-giao-duc/ket-qua-ky-thi-hoc-sinh-gioi-lop-12-cap-thanh-pho-nam-hoc-2024-2025/ctfull/76697/523677" target="_blank">Kết quả kỳ thi học sinh giỏi lớp 12 cấp thành phố - năm học 2024-2025</a></h3>
+      <br>
+      <h3><a href="https://thptngoquyen.hcm.edu.vn/ban-tin-giao-duc/giao-vien-truong-thpt-ngo-quyen-to-chuc-goi-va-trang-tri-banh-chung-banh-tet-chao-mung-xuan/ctfull/76697/521401" target="_blank">Giáo viên tổ chức gói bánh chưng, bánh tét mừng xuân 2025</a></h3>
+    </div>
+  </div>
+
+  <footer>
+    Họ tên HS – Lớp
+  </footer>
+
+</body>
+</html>
+  </style>
+  
