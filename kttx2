@@ -31,7 +31,6 @@
     <div class="main" id="home">
       <h2>Giới thiệu bản thân</h2>
       <p>Xin chào! Mình tên là Nguyễn Quynh Anh , học sinh lớp 12A trường THPT Ngô Quyền.</p>
-      <img src="banthan.jpg" alt="Ảnh bản thân">
     </div>
     <div class="headline">
       <h3><a href="https://thptngoquyen.hcm.edu.vn/ban-tin-giao-duc/ket-qua-ky-thi-hoc-sinh-gioi-lop-12-cap-thanh-pho-nam-hoc-2024-2025/ctfull/76697/523677" target="_blank">Kết quả kỳ thi học sinh giỏi lớp 12 cấp thành phố - năm học 2024-2025</a></h3>
@@ -46,5 +45,5 @@
 
 </body>
 </html>
-  </style>
+
   
